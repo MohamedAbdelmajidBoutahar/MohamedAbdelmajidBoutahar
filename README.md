@@ -7,7 +7,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🌍 Based in Marrakech, Morocco  
+- 🌍 Based in Rabat, Morocco  
 - 💻 Junior full-stack web developer passionate about modern technologies  
 - 🧠 Currently learning: Django  
 - 🌐 Languages: Arabic (native), French (intermediate), English (basic)  
